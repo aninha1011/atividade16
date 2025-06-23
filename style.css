@@ -1,0 +1,13 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.capa {
+  background: url('../img/capa.jpg') center center/cover no-repeat;
+  height: 60vh;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease-in-out;
+}
